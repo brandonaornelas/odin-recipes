@@ -1,0 +1,25 @@
+body {
+    background-color: blanchedalmond;
+}
+
+.description p, a{
+    color: brown;
+}
+
+.description img {
+    width: 30%;
+    height: auto;
+}
+
+.ingredients , .cooking-steps{
+    background-color: burlywood;
+    display: block;
+    padding: 10px 10px 10px 10px;
+}
+
+.ingredients li , .cooking-steps li{
+    color: beige;
+    padding-bottom: 10px;
+}
+
+
